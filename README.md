@@ -1,4 +1,4 @@
-# ✈️ SkyJet Airways
+# ✈️ SkyJet
 > An Airline Disruption Recovery Platform that enables passengers to manage flight delays, cancellations, rebooking, refunds, booking retrieval, and travel updates through a self-service digital portal.
 
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB)
@@ -11,7 +11,7 @@
 
 # 📌 About The Project
 
-SkyJet Airways is a self-service Airline Disruption Recovery Platform designed to help passengers manage flight disruptions without contacting customer support. The platform provides real-time flight updates, booking management, automated recovery options, and an intuitive dashboard for both passengers and airline administrators.
+SkyJet is a self-service Airline Disruption Recovery Platform designed to help passengers manage flight disruptions without contacting customer support. The platform provides real-time flight updates, booking management, automated recovery options, and an intuitive dashboard for both passengers and airline administrators.
 
 The system combines modern web technologies, REST APIs, and cloud-ready architecture to deliver a seamless digital experience during weather disruptions, flight delays, and cancellations.
 
@@ -28,11 +28,15 @@ The platform supports:
 - 📊 Admin Dashboard
 - 🌍 Domestic & International Flight Management
 
-SkyJet Airways helps airlines reduce customer support workload while improving passenger satisfaction through digital self-service recovery.
+SkyJet helps airlines reduce customer support workload while improving passenger satisfaction through digital self-service recovery.
 
 ---
-# Zip File Link to Direct Access
+## Zip File Link to Direct Access
 https://drive.google.com/drive/folders/1Wqv-Ip1shIsAAJYa-PHBKsPtEZSaJpxe?usp=drive_link
+## video/Preview
+https://drive.google.com/file/d/1ffFPv9yCzbs0vgddV0Ahkn5Zs7s-4Rn8/view?usp=drive_link
+
+
 # ✨ Key Features
 
 ## ✈️ Flight Booking
@@ -327,7 +331,7 @@ cd skyjet-airways
 # 📁 Project Structure
 
 ```
-skyjet-airways/
+skyjet/
 │
 ├── frontend/
 │   ├── src/
@@ -492,25 +496,6 @@ mongodb://localhost:27017
 
 ---
 
-# 🔑 Environment Variables
-
-Create a file named
-
-```
-backend/.env
-```
-
-Add
-
-```env
-MONGO_URI=mongodb://localhost:27017/
-DATABASE_NAME=skyjet
-SECRET_KEY=skyjet_secret_key
-FLASK_ENV=development
-FLASK_DEBUG=True
-```
-
----
 
 # ▶️ Running the Complete Project
 
@@ -681,15 +666,3 @@ After completing the above steps, the application will be available at:
 Enjoy using **SkyJet – Airline Disruption Recovery Portal**! ✈️
 
 
-# 🎯 Project Highlights
-
-- Self-Service Airline Recovery Portal
-- Customer & Admin Dashboards
-- Domestic & International Flight Support
-- Automated Rebooking & Refund Workflow
-- Ticket & Cancellation PDF Generation
-- Real-Time Flight Status Updates
-- Responsive UI with Modern Design
-- REST API Based Architecture
-- Secure Authentication & Authorization
-- Scalable and Cloud-Ready MVP
