@@ -166,10 +166,10 @@ https://drive.google.com/file/d/1ffFPv9yCzbs0vgddV0Ahkn5Zs7s-4Rn8/view?usp=drive
 
 ## Backend
 
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+- Python 3.10+
+- Flask
+- PyMongo (MongoDB)
+- python-dotenv
 
 ---
 
