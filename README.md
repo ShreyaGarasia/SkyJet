@@ -1,13 +1,6 @@
 # ✈️ SkyJet
 > An Airline Disruption Recovery Platform that enables passengers to manage flight delays, cancellations, rebooking, refunds, booking retrieval, and travel updates through a self-service digital portal.
 
-![React](https://img.shields.io/badge/React-Frontend-61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![Express.js](https://img.shields.io/badge/Express.js-REST_API-black)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
-![JWT](https://img.shields.io/badge/JWT-Authentication-orange)
-
----
 
 # 📌 About The Project
 
